@@ -13,7 +13,7 @@
 * Currently building **Mello** — a custom programming language that transpiles into Arduino C++.
 * Passionate about C++, low-level computer science, CPU emulation, and embedded systems/robotics.
 * I code for fun, performance, and understanding how things work under the hood.
-* Discord: king_mohammed1357_21639 talk to me any time
+* Discord: king_mohammed1357_21639 talk to me anytime
 
 ---
 
