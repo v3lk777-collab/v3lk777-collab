@@ -1,11 +1,8 @@
 <div align="center">
 
-  # V3LK
-  ### **Systems Developer & Compiler Enthusiast**
+  # V3LK (Mohammed)
 
-  <p><code>C++</code> • <code>Low-Level</code> • <code>Compilers</code> • <code>Embedded Systems</code></p>
-
-  > *"Writing code until my brain hits a 404 error... btw take 🍉"*
+  *"btw take 🍉"*
 
 </div>
 
