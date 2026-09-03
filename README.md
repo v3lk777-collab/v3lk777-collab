@@ -1,10 +1,8 @@
-<div align="center">
+<div align="left">
 
-  # V3LK (Mohammed)
+  # Hi, I'm V3LK
 
 </div>
-
-![](https://komarev.com)
 
 ### About Me
 * Based in **El-Mansoura, Egypt 🇪🇬**.
