@@ -39,7 +39,7 @@
 
 ### Connect with Me
 <p align="left">
-  <strong>Discord:</strong> <code>king_mohammed1357_21639</code> 
+  <strong>Discord:</strong> <code>rememberwhoami</code> 
   &nbsp;&bull;&nbsp;
   <span>Feel free to text me ヾ(≧▽≦*)o</span>
 </p>
