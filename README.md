@@ -5,7 +5,7 @@
 </div>
 
 ### About Me
-* I'm fuckin' hate my life.
+* I'm fuckin' hate my life, and my past.
 * Based in **El-Mansoura, Egypt 🇪🇬** so come and kill me.
 * #I_Hate_Eyouth_BTW and if you don't know that is Eyouth that's good 👍.
 * Currently building **Mello** — a custom programming language that transpiles into **Arduino C++**.
