@@ -1,7 +1,5 @@
 <div align="left">
-
   # Hi, my name is Mohammed or as i prefer (V3LK)
-
 </div>
 
 ### About Me
