@@ -6,6 +6,7 @@
 
 ### About Me
 * Based in **El-Mansoura, Egypt 🇪🇬** so come and kill me.
+* I can speak three languages: Arabic (my native language), English, and a little bit of Korean
 * Currently building **Mello** — a custom programming language that transpiles into **Arduino C++**.
 * Passionate about C++, low-level computer science, CPU emulation, and embedded systems/robotics.
 * I code for fun, performance, and understanding how things work under the hood.
