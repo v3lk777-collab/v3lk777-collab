@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Assembly-%236E4C13.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-%236E4C13.svg?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Html-%233776AB.svg?style=for-the-badge&logo=HTML&logoColor=white" />
 </p>
 
 **Frameworks**
